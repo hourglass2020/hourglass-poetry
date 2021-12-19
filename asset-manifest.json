@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/hourglass-poetry/static/js/main.d230eada.js",
+    "index.html": "/hourglass-poetry/index.html",
+    "main.d230eada.js.map": "/hourglass-poetry/static/js/main.d230eada.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d230eada.js"
+  ]
+}
